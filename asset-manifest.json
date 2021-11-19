@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/List-Movie-Website-Using-React/static/css/main.dee07075.chunk.css",
+    "main.js": "/List-Movie-Website-Using-React/static/js/main.330510a1.chunk.js",
+    "main.js.map": "/List-Movie-Website-Using-React/static/js/main.330510a1.chunk.js.map",
+    "runtime-main.js": "/List-Movie-Website-Using-React/static/js/runtime-main.0edf461d.js",
+    "runtime-main.js.map": "/List-Movie-Website-Using-React/static/js/runtime-main.0edf461d.js.map",
+    "static/js/2.d99bf193.chunk.js": "/List-Movie-Website-Using-React/static/js/2.d99bf193.chunk.js",
+    "static/js/2.d99bf193.chunk.js.map": "/List-Movie-Website-Using-React/static/js/2.d99bf193.chunk.js.map",
+    "static/js/3.020db726.chunk.js": "/List-Movie-Website-Using-React/static/js/3.020db726.chunk.js",
+    "static/js/3.020db726.chunk.js.map": "/List-Movie-Website-Using-React/static/js/3.020db726.chunk.js.map",
+    "index.html": "/List-Movie-Website-Using-React/index.html",
+    "static/css/main.dee07075.chunk.css.map": "/List-Movie-Website-Using-React/static/css/main.dee07075.chunk.css.map",
+    "static/js/2.d99bf193.chunk.js.LICENSE.txt": "/List-Movie-Website-Using-React/static/js/2.d99bf193.chunk.js.LICENSE.txt",
+    "static/media/icon.47564576.png": "/List-Movie-Website-Using-React/static/media/icon.47564576.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0edf461d.js",
+    "static/js/2.d99bf193.chunk.js",
+    "static/css/main.dee07075.chunk.css",
+    "static/js/main.330510a1.chunk.js"
+  ]
+}
